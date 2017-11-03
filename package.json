@@ -1,6 +1,6 @@
 {
   "name": "modular-style-loader",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.2",
   "author": "Vinicius Pacheco Furtado vin175pacheco@gmail.com",
   "main": "dist/loader.js",
   "keywords": [
@@ -32,6 +32,7 @@
     "babel-eslint": "^8.0.1",
     "babel-jest": "^21.2.0",
     "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
     "css-modular-loader": "^0.0.4",
     "eslint": "^4.9.0",
     "eslint-config-airbnb-base": "^12.1.0",
