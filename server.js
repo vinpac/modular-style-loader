@@ -1,2 +1,2 @@
 /* eslint-disable */
-module.exports = require('./dist/server');
+module.exports = require('./dist/store');
