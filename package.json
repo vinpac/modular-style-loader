@@ -1,6 +1,6 @@
 {
   "name": "modular-style-loader",
-  "version": "0.0.1-beta.4",
+  "version": "0.0.1-beta.6",
   "author": "Vinicius Pacheco Furtado vin175pacheco@gmail.com",
   "main": "dist/loader.js",
   "keywords": [
